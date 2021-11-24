@@ -1,14 +1,30 @@
 {
   "name": "@acacha/casteaching",
-  "version": "1.0.2",
-  "description": "Javascript package for casteaching API",
+  "version": "1.0.3",
+  "description": "Casteaching api service",
   "main": "index.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "follow-redirects": "^1.14.5"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acacha/casteaching_package.git"
+  },
+  "keywords": [
+    "Casteaching",
+    "api",
+    "rest",
+    "laravel"
+  ],
   "author": "Sergi Tur Badenas",
   "license": "ISC",
-  "dependencies": {
-    "axios": "^0.24.0"
-  }
+  "bugs": {
+    "url": "https://github.com/acacha/casteaching_package/issues"
+  },
+  "homepage": "https://github.com/acacha/casteaching_package#readme"
 }

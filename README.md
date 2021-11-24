@@ -1,7 +1,7 @@
 # Instal·lació
 
 ```bash 
-npm install casteaching
+npm install @acacha/casteaching
 ``` 
 
 # Usage 
@@ -31,6 +31,7 @@ Sergi Tur Badenas
 
 # More info
 - https://github.com/acacha/casteaching
+- https://github.com/acacha/casteaching_package
 
 # Creació de repositori propi
 
