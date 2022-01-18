@@ -7,7 +7,7 @@ npm install @acacha/casteaching
 # Usage 
 
 ```javascript
-import casteaching from 'casteaching'
+import casteaching from '@acacha/casteaching'
 
 // Obtenir llista de vídeos publicats
 casteaching.videos()
