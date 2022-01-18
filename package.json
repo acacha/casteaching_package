@@ -1,13 +1,11 @@
 {
   "name": "@acacha/casteaching",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Casteaching api service",
   "main": "index.js",
   "dependencies": {
     "axios": "^0.24.0",
-    "dotenv": "^14.2.0",
-    "follow-redirects": "^1.14.5",
-    "path-browserify": "^1.0.1"
+    "follow-redirects": "^1.14.5"
   },
   "devDependencies": {},
   "scripts": {

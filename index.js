@@ -1,12 +1,8 @@
 import axios from 'axios'
 
-require('dotenv').config()
-
-console.dir(process.env);
-
 // TOKEN YSqXe8KJiHfx3Z9MGaoic0heLIZ0ifv9ZODV30r0
 const apiClient = axios.create({
-    baseURL: process.env.API_URL,
+    baseURL: process.env.MIX_API_URL,
     withCredentials: true,
     headers: {
         Accept: 'application/json',
