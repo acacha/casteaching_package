@@ -11,6 +11,11 @@ export default function(options) {
     })
 
     return {
+        token: null,
+        setToken: function(token) {
+            this.token = token
+            apiClient.defaults.headers.common['Authorization'] = 'Bearer ' + this.token;
+        },
         videos: async function() {
             const response = await apiClient.get('/videos')
             return response.data
@@ -24,8 +29,7 @@ export default function(options) {
             const response = await apiClient.post('/sanctum/token', postData)
             return response.data
         },
-        user:  async function(token) {
-            apiClient.defaults.headers.common['Authorization'] = token;
+        user:  async function() {
             const response = await apiClient.get('/user')
             return response.data
         },
