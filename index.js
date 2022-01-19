@@ -1,51 +1,52 @@
 import axios from 'axios'
 
-// TOKEN YSqXe8KJiHfx3Z9MGaoic0heLIZ0ifv9ZODV30r0
-const apiClient = axios.create({
-    baseURL: process.env.MIX_API_URL,
-    withCredentials: true,
-    headers: {
-        Accept: 'application/json',
-        'Content-Type': 'application/json',
-        Authorization: 'Bearer YSqXe8KJiHfx3Z9MGaoic0heLIZ0ifv9ZODV30r0'
-    }
-})
-
-export default {
-    videos: async function() {
-        const response = await apiClient.get('/videos')
-        return response.data
-    },
-    login:  async function(email,password,device_name) {
-        const postData = {
-            email,
-            password,
-            device_name,
+export default function(options) {
+    let apiClient = axios.create({
+        baseURL: options.baseUrl || process.env.MIX_API_URL,
+        withCredentials: true,
+        headers: {
+            Accept: 'application/json',
+            'Content-Type': 'application/json'
         }
-        const response = await apiClient.post('/sanctum/token', postData)
-        return response.data
-    },
-    user:  async function() {
-        const response = await apiClient.get('/user')
-        return response.data
-    },
-    video: {
-        show: async function(id) {
-            const response = await apiClient.get('/videos/' + id)
+    })
+
+    return {
+        videos: async function() {
+            const response = await apiClient.get('/videos')
             return response.data
         },
-        create: async function(data) {
-            const response = await apiClient.post('/videos',data)
+        login:  async function(email,password,device_name) {
+            const postData = {
+                email,
+                password,
+                device_name,
+            }
+            const response = await apiClient.post('/sanctum/token', postData)
             return response.data
         },
-        update: async function(id, data) {
-            const response = await apiClient.put('/videos/' + id,data)
+        user:  async function(token) {
+            apiClient.defaults.headers.common['Authorization'] = token;
+            const response = await apiClient.get('/user')
             return response.data
         },
-        destroy: async function(id) {
-            const response = await apiClient.delete('/videos/' + id)
-            return response.data
-        },
+        video: {
+            show: async function(id) {
+                const response = await apiClient.get('/videos/' + id)
+                return response.data
+            },
+            create: async function(data) {
+                const response = await apiClient.post('/videos',data)
+                return response.data
+            },
+            update: async function(id, data) {
+                const response = await apiClient.put('/videos/' + id,data)
+                return response.data
+            },
+            destroy: async function(id) {
+                const response = await apiClient.delete('/videos/' + id)
+                return response.data
+            },
+        }
     }
 }
 
