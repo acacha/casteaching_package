@@ -16,6 +16,19 @@ export default {
         const response = await apiClient.get('/videos')
         return response.data
     },
+    login:  async function(email,password,device_name) {
+        const postData = {
+            email,
+            password,
+            device_name,
+        }
+        const response = await apiClient.post('/sanctum/token', postData)
+        return response.data
+    },
+    user:  async function() {
+        const response = await apiClient.get('/user')
+        return response.data
+    },
     video: {
         show: async function(id) {
             const response = await apiClient.get('/videos/' + id)

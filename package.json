@@ -1,6 +1,6 @@
 {
   "name": "@acacha/casteaching",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Casteaching api service",
   "main": "index.js",
   "dependencies": {
