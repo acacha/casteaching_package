@@ -2,7 +2,7 @@ import axios from 'axios'
 
 export default function(options) {
     let apiClient = axios.create({
-        baseURL: options.baseUrl || process.env.MIX_API_URL,
+        baseURL: (options && options.baseUrl) || process.env.MIX_API_URL,
         withCredentials: true,
         headers: {
             Accept: 'application/json',
