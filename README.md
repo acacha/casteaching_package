@@ -35,29 +35,29 @@ casteaching.video.destroy(1)
 
 # Codi font dels alumnes
 
-- Audí Bielsa, Daniel: https://github.com/daudi44/TODO
+- Audí Bielsa, Daniel: https://github.com/daudi44/casteaching_package_daudi
 - Avante Caballé, Marc: https://github.com/AvanteCaballe/casteaching_package
-- Brusca Manchón, Albert: https://github.com/Albert-Brusca/TODO
-- Goncear, Tudor: https://github.com/tgoncear/TODO
-- Moreno Giraldo, Jhon: Jhon1348: https://github.com/Jhon1348/TODO
-- Muñoz Zafra, Ferran | https://github.com/Fmunozzafra/TODO
+- Brusca Manchón, Albert: https://github.com/Albert-Brusca/casteaching_package
+- Goncear, Tudor: https://github.com/tgoncear/casteaching-package
+- Moreno Giraldo, Jhon: Jhon1348: https://github.com/Jhon1348/casteaching_package
+- Muñoz Zafra, Ferran | https://github.com/Fmunozzafra/casteaching_package_fmz
 - Pont Lopez, David: Palanka777: https://github.com/Palanka777/TODO.git
-- Rius Rivas, Alba: AlbaRiius: https://github.com/AlbaRiius/TODO
+- Rius Rivas, Alba: AlbaRiius: https://github.com/AlbaRiius/casteaching_arr_package
 - Tomas Altadill, Axel: AxelTomas99: https://github.com/AxelTomas99/TODO
 - Gabriel Urs. Gabriel: l3lackJack https://github.com/l3lackJack/casteaching_package
-- Tur Badenas, Sergi: Alumne DAM Prova: https://github.com/AlumneDAMPRova/TODO
+- Tur Badenas, Sergi: Alumne DAM Prova: https://github.com/acacha_casteaching_package
 
 # Paquet a npmjs
 
-- Audí Bielsa, Daniel: TODO
+- Audí Bielsa, Daniel: https://www.npmjs.com/package/@daudi/casteachingdani
 - Avante Caballé, Marc: https://www.npmjs.com/package/@marcavante/casteachingavante
-- Brusca Manchón, Albert: TODO
-- Goncear, Tudor: TODO
-- Moreno Giraldo, Jhon: TODO
+- Brusca Manchón, Albert: https://www.npmjs.com/package/@abrusca/casteachingalbert
+- Goncear, Tudor: https://www.npmjs.com/package/tgoncearcasteaching
+- Moreno Giraldo, Jhon: https://www.npmjs.com/package/@john_3/casteaching
 - Pont Lopez, David: Palanka777: TODO
-- Rius Rivas, Alba: TODO
+- Rius Rivas, Alba: https://www.npmjs.com/package/@albariius/casteaching_arr
 - Tomas Altadill, Axel: TODO
-- Muñoz Zafra, Ferran: TODO
+- Muñoz Zafra, Ferran: https://www.npmjs.com/package/casteaching_fmz
 - Urs, Gabriel: https://www.npmjs.com/package/@l3lackjack/casteaching
 - Tur Badenas, Sergi: Alumne DAM Prova: https://www.npmjs.com/package/@acacha/casteaching
 
