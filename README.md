@@ -44,7 +44,7 @@ casteaching.video.destroy(1)
 - Pont Lopez, David: Palanka777: https://github.com/Palanka777/TODO.git
 - Rius Rivas, Alba: AlbaRiius: https://github.com/AlbaRiius/TODO
 - Tomas Altadill, Axel: AxelTomas99: https://github.com/AxelTomas99/TODO
-- Gabriel Urs. Gabriel: l3lackJack https://github.com/l3lackJack/TODO
+- Gabriel Urs. Gabriel: l3lackJack https://github.com/l3lackJack/casteaching_package
 - Tur Badenas, Sergi: Alumne DAM Prova: https://github.com/AlumneDAMPRova/TODO
 
 # Paquet a npmjs
