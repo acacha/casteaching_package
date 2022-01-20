@@ -35,7 +35,7 @@ casteaching.video.destroy(1)
 
 # Codi font dels alumnes
 
-- Audí Bielsa, Daniel: https://github.com/daudi44/TODO
+- Audí Bielsa, Daniel: https://github.com/daudi44/casteaching_package_daudi
 - Avante Caballé, Marc: https://github.com/AvanteCaballe/casteaching_package
 - Brusca Manchón, Albert: https://github.com/Albert-Brusca/casteaching_package
 - Goncear, Tudor: https://github.com/tgoncear/TODO
