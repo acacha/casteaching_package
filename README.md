@@ -55,7 +55,7 @@ casteaching.video.destroy(1)
 - Goncear, Tudor: TODO
 - Moreno Giraldo, Jhon: TODO
 - Pont Lopez, David: Palanka777: TODO
-- Rius Rivas, Alba: TODO
+- Rius Rivas, Alba: https://www.npmjs.com/package/casteaching_arr
 - Tomas Altadill, Axel: TODO
 - Muñoz Zafra, Ferran: TODO
 - Urs, Gabriel: TODO
