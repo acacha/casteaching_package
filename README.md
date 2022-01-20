@@ -39,7 +39,7 @@ casteaching.video.destroy(1)
 - Avante Caballé, Marc: https://github.com/AvanteCaballe/casteaching_package
 - Brusca Manchón, Albert: https://github.com/Albert-Brusca/TODO
 - Goncear, Tudor: https://github.com/tgoncear/TODO
-- Moreno Giraldo, Jhon: Jhon1348: https://github.com/Jhon1348/TODO
+- Moreno Giraldo, Jhon: Jhon1348: https://github.com/Jhon1348/casteaching_package
 - Muñoz Zafra, Ferran | https://github.com/Fmunozzafra/TODO
 - Pont Lopez, David: Palanka777: https://github.com/Palanka777/TODO.git
 - Rius Rivas, Alba: AlbaRiius: https://github.com/AlbaRiius/TODO
