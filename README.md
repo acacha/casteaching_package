@@ -42,7 +42,7 @@ casteaching.video.destroy(1)
 - Moreno Giraldo, Jhon: Jhon1348: https://github.com/Jhon1348/TODO
 - Muñoz Zafra, Ferran | https://github.com/Fmunozzafra/TODO
 - Pont Lopez, David: Palanka777: https://github.com/Palanka777/TODO.git
-- Rius Rivas, Alba: AlbaRiius: https://github.com/AlbaRiius/TODO
+- Rius Rivas, Alba: AlbaRiius: https://github.com/AlbaRiius/casteaching_arr_package
 - Tomas Altadill, Axel: AxelTomas99: https://github.com/AxelTomas99/TODO
 - Gabriel Urs. Gabriel: l3lackJack https://github.com/l3lackJack/TODO
 - Tur Badenas, Sergi: Alumne DAM Prova: https://github.com/AlumneDAMPRova/TODO
@@ -55,7 +55,7 @@ casteaching.video.destroy(1)
 - Goncear, Tudor: TODO
 - Moreno Giraldo, Jhon: TODO
 - Pont Lopez, David: Palanka777: TODO
-- Rius Rivas, Alba: https://www.npmjs.com/package/casteaching_arr
+- Rius Rivas, Alba: https://www.npmjs.com/package/@albariius/casteaching_arr
 - Tomas Altadill, Axel: TODO
 - Muñoz Zafra, Ferran: TODO
 - Urs, Gabriel: TODO
