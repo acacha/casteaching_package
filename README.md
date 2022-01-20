@@ -49,7 +49,7 @@ casteaching.video.destroy(1)
 
 # Paquet a npmjs
 
-- Audí Bielsa, Daniel: TODO
+- Audí Bielsa, Daniel: https://www.npmjs.com/package/@daudi/casteachingdani
 - Avante Caballé, Marc: https://www.npmjs.com/package/@marcavante/casteachingavante
 - Brusca Manchón, Albert: TODO
 - Goncear, Tudor: TODO
