@@ -57,7 +57,7 @@ casteaching.video.destroy(1)
 - Pont Lopez, David: Palanka777: TODO
 - Rius Rivas, Alba: TODO
 - Tomas Altadill, Axel: TODO
-- Muñoz Zafra, Ferran: TODO
+- Muñoz Zafra, Ferran: https://www.npmjs.com/package/casteaching_fmz
 - Urs, Gabriel: TODO
 - Tur Badenas, Sergi: Alumne DAM Prova: https://www.npmjs.com/package/@acacha/casteaching
 
