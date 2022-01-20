@@ -58,7 +58,7 @@ casteaching.video.destroy(1)
 - Rius Rivas, Alba: https://www.npmjs.com/package/@albariius/casteaching_arr
 - Tomas Altadill, Axel: TODO
 - Muñoz Zafra, Ferran: https://www.npmjs.com/package/casteaching_fmz
-- Urs, Gabriel: TODO
+- Urs, Gabriel: https://www.npmjs.com/package/@l3lackjack/casteaching
 - Tur Badenas, Sergi: Alumne DAM Prova: https://www.npmjs.com/package/@acacha/casteaching
 
 # More info
