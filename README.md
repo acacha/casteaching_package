@@ -37,7 +37,7 @@ casteaching.video.destroy(1)
 
 - Audí Bielsa, Daniel: https://github.com/daudi44/TODO
 - Avante Caballé, Marc: https://github.com/AvanteCaballe/casteaching_package
-- Brusca Manchón, Albert: https://github.com/Albert-Brusca/TODO
+- Brusca Manchón, Albert: https://github.com/Albert-Brusca/casteaching_package
 - Goncear, Tudor: https://github.com/tgoncear/TODO
 - Moreno Giraldo, Jhon: Jhon1348: https://github.com/Jhon1348/TODO
 - Muñoz Zafra, Ferran | https://github.com/Fmunozzafra/TODO
@@ -51,7 +51,7 @@ casteaching.video.destroy(1)
 
 - Audí Bielsa, Daniel: TODO
 - Avante Caballé, Marc: https://www.npmjs.com/package/@marcavante/casteachingavante
-- Brusca Manchón, Albert: TODO
+- Brusca Manchón, Albert: https://www.npmjs.com/package/@abrusca/casteachingalbert
 - Goncear, Tudor: TODO
 - Moreno Giraldo, Jhon: TODO
 - Pont Lopez, David: Palanka777: TODO
