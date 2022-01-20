@@ -53,7 +53,7 @@ casteaching.video.destroy(1)
 - Avante Caballé, Marc: https://www.npmjs.com/package/@marcavante/casteachingavante
 - Brusca Manchón, Albert: TODO
 - Goncear, Tudor: TODO
-- Moreno Giraldo, Jhon: TODO
+- Moreno Giraldo, Jhon: https://www.npmjs.com/package/@john_3/casteaching
 - Pont Lopez, David: Palanka777: TODO
 - Rius Rivas, Alba: TODO
 - Tomas Altadill, Axel: TODO
