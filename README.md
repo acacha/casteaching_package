@@ -36,7 +36,7 @@ casteaching.video.destroy(1)
 # Codi font dels alumnes
 
 - Audí Bielsa, Daniel: https://github.com/daudi44/TODO
-- Avante Caballé, Marc: https://github.com/AvanteCaballe/TODO
+- Avante Caballé, Marc: https://github.com/AvanteCaballe/casteaching_package
 - Brusca Manchón, Albert: https://github.com/Albert-Brusca/TODO
 - Goncear, Tudor: https://github.com/tgoncear/TODO
 - Moreno Giraldo, Jhon: Jhon1348: https://github.com/Jhon1348/TODO
@@ -50,7 +50,7 @@ casteaching.video.destroy(1)
 # Paquet a npmjs
 
 - Audí Bielsa, Daniel: TODO
-- Avante Caballé, Marc: TODO
+- Avante Caballé, Marc: https://www.npmjs.com/package/@marcavante/casteachingavante
 - Brusca Manchón, Albert: TODO
 - Goncear, Tudor: TODO
 - Moreno Giraldo, Jhon: TODO
