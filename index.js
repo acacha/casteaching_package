@@ -16,6 +16,10 @@ export default function(options) {
             this.token = token
             apiClient.defaults.headers.common['Authorization'] = 'Bearer ' + this.token;
         },
+        series: async function() {
+            const response = await apiClient.get('/series')
+            return response.data
+        },
         videos: async function() {
             const response = await apiClient.get('/videos')
             return response.data
