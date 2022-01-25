@@ -13,7 +13,12 @@ import casteaching from '@acacha/casteaching'
 
 const api = casteaching({baseUrl: 'https://casteaching.alumnedam.me/api'}).videos()
 
+// OPTIONAL: for operations that requires token
+// Example https://github.com/acacha/casteachingIonic/blob/f8afa6e65e4c5f7c5fde972b85ba95cf347f9c07/src/views/Login.vue#L102
+api.setToken(token)
+
 // Obtenir llista de vídeos publicats
+api.videos()
 
 // Obtenir vídeo per ID
 api.video.show(1)
