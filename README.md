@@ -6,6 +6,31 @@ npm install @acacha/casteaching
 
 # Usage 
 
+Example at: https://github.com/acacha/casteachingIonic/blob/1cb100635433f83b348574c138227c41f79c4fa5/src/main.js#L28-L38
+
+```javascript
+import casteaching from '@acacha/casteaching'
+
+const api = casteaching({baseUrl: 'https://casteaching.alumnedam.me/api'}).videos()
+
+// Obtenir llista de vídeos publicats
+
+// Obtenir vídeo per ID
+api.video.show(1)
+
+// Crear video
+api.video.create({name: 'PHP 101', description: 'Bla bla bla',  url: 'https://youtube.com/...' })
+
+// Update video
+api.video.update(1,{name: 'PHP 101', description: 'Bla bla bla',  url: 'https://youtube.com/...' })
+
+// Destroy
+api.video.destroy(1)
+```
+
+
+## Obsolet (previous to 1.0.5)
+
 ```javascript
 import casteaching from '@acacha/casteaching'
 
