@@ -6,7 +6,7 @@ npm install @acacha/casteaching
 
 # Usage 
 
-Example at: https://github.com/acacha/casteachingIonic/blob/1cb100635433f83b348574c138227c41f79c4fa5/src/main.js#L28-L38
+Example [here](https://github.com/acacha/casteachingIonic/blob/1cb100635433f83b348574c138227c41f79c4fa5/src/main.js#L28-L38)
 
 ```javascript
 import casteaching from '@acacha/casteaching'
