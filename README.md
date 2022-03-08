@@ -73,7 +73,7 @@ casteaching.video.destroy(1)
 - Muñoz Zafra, Ferran | https://github.com/Fmunozzafra/casteaching_package_fmz
 - Pont Lopez, David: Palanka777: https://github.com/Palanka777/casteaching_package.git
 - Rius Rivas, Alba: AlbaRiius: https://github.com/AlbaRiius/casteaching_arr_package
-- Tomas Altadill, Axel: AxelTomas99: https://github.com/AxelTomas99/TODO
+- Tomas Altadill, Axel: AxelTomas99: https://github.com/AxelTomas99/casteaching_package
 - Gabriel Urs. Gabriel: l3lackJack https://github.com/l3lackJack/casteaching_package
 - Tur Badenas, Sergi: Alumne DAM Prova: https://github.com/acacha_casteaching_package
 
@@ -86,7 +86,7 @@ casteaching.video.destroy(1)
 - Moreno Giraldo, Jhon: https://www.npmjs.com/package/@john_3/casteaching
 - Pont Lopez, David: Palanka777: https://www.npmjs.com/package/@palanka777/casteaching_palanka
 - Rius Rivas, Alba: https://www.npmjs.com/package/@albariius/casteaching_arr
-- Tomas Altadill, Axel: TODO
+- Tomas Altadill, Axel: https://www.npmjs.com/package/@axeltomas/axeltomas_casteaching
 - Muñoz Zafra, Ferran: https://www.npmjs.com/package/casteaching_fmz
 - Urs, Gabriel: https://www.npmjs.com/package/@l3lackjack/casteaching
 - Tur Badenas, Sergi: Alumne DAM Prova: https://www.npmjs.com/package/@acacha/casteaching
